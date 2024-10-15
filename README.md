@@ -126,7 +126,8 @@ int main() {
 ~~~
 ## Outputs :
 ### 1.
-Screenshot 2024-09-08 172434
+![image](https://github.com/user-attachments/assets/feb638a6-ff26-4d17-b278-2024c6644302)
+
 
 ### 2.
 Screenshot 2024-09-08 172456
